@@ -1,0 +1,21 @@
+.bot-collection, .bot-army {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  
+  .bot-card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 1rem;
+    width: 200px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .bot-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
